@@ -64,7 +64,7 @@ const Contact = () => {
               </label>
               <input
                 type="text"
-                id="name"
+                name="name"
                 placeholder="Full Name"
                 className="mt-1 p-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
               />
@@ -78,7 +78,7 @@ const Contact = () => {
               </label>
               <input
                 type="email"
-                id="email_user"
+                name="email_user"
                 placeholder="Email"
                 className="mt-1 p-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
               />
@@ -91,7 +91,7 @@ const Contact = () => {
                 Message
               </label>
               <textarea
-                id="message"
+                name="message"
                 placeholder="Enter Your Message"
                 className="mt-1 p-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
               />
