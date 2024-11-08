@@ -48,7 +48,7 @@ const Contact = () => {
             />
           </div>
           <form
-            action="https://getform.io/f/bzyywdwa"
+            action="https://formspree.io/f/movqdzyz"
             className="w-full md:w-1/2 bg-gray-100 rounded-lg border border-red-300 shadow-lg shadow-red-500 p-10"
           >
             <h1 className="text-gray-900 text-4xl font-bold mb-7">
