@@ -31,9 +31,9 @@ const Projects = () => {
       github: "#",
     },
     {
-      title: "Landing Page Term Deposit Prediction",
-      desc: "Pada Projek ini, saya memiliki peran dalam QC atau Quality Control, memastikan bahwa hasil akhir dari projek ini sesuai dengan kebutuhan dari client.",
-      image: Landing,
+      title: "Loan Prediction with Machine Learning Python",
+      desc: "Pada projek ini, saya membuat sebuah model machine learning yang berguna untuk memprediksi apakah seseorang akan mendapatkan pinjaman atau tidak.",
+      image: "/predik.png",
       live: "#",
       github: "#",
     },
