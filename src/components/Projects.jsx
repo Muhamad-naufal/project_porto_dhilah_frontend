@@ -31,8 +31,8 @@ const Projects = () => {
       github: "#",
     },
     {
-      title: "Loan Prediction with Machine Learning Python",
-      desc: "Pada projek ini, saya membuat sebuah model ML yang berguna untuk memprediksi apakah seseorang akan mendapatkan pinjaman atau tidak.",
+      title: "Loan Prediction with Machine Learning",
+      desc: "Pada projek ini, saya membuat sebuah model machine learning yang berguna untuk memprediksi apakah seseorang akan mendapatkan pinjaman atau tidak.",
       image: "/predik.png",
       live: "#",
       github: "#",
