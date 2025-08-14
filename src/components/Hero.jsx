@@ -12,27 +12,16 @@ const Hero = () => {
           <div className="md:w-1/2 mb-8 md:mb-0 flex flex-col space-y-4 px-6 lg:px-0 lg:mt-0 mt-10">
             <h1 className="lg:text-7xl text-4xl font-bold lg:leading-snug">
               Hi There, <br />
-              I'm Siti Nur{" "}
+              I'm Eka{" "}
               <span className="text-indigo-600 hover:text-indigo-800">
-                Fadhilah
+                Wulandari
               </span>
             </h1>
-            <p className="md:text-2xl text-xl mb-4">Front End Developer</p>
+            <p className="md:text-2xl text-xl mb-4">Anak Baik Pondok</p>
             <p className="mb-4">
-              Saya seorang pengembang web yang penuh semangat dengan keahlian
-              dalam HTML, CSS, JavaScript, dan PHP. Saya suka menciptakan situs
-              web yang indah dan fungsional yang menyelesaikan masalah di dunia
-              nyata.
+              akuu lemah lembut dah ga pernah marahhhh,gapernah ngambek,selalu
+              nurut ga pernah ngeyell
             </p>
-            <button className="bg-black text-white px-3 py-2 w-max rounded-md">
-              <a
-                href="https://drive.google.com/file/d/1iyQnF5rdxcGBx5wYFlvNdQSV2_pxLjiP/view?usp=sharing"
-                download
-                target="_blank"
-              >
-                Download CV
-              </a>
-            </button>
           </div>
           <div className="md:w-1/2 relative flex justify-center items-end">
             <img

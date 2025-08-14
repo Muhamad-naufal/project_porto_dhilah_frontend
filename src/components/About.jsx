@@ -18,7 +18,7 @@ const About = () => {
               About Me
             </h2>
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              Hi, I'm Siti Nur Fadhilah
+              Hi, I'm Eka Wulandari
             </p>
             <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
               Seorang Web Developer yang berfokus pada HTML, CSS, Javascript,

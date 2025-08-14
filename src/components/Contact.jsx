@@ -24,22 +24,10 @@ const Contact = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://www.facebook.com/profile.php?id=100008913103776"
-                className="text-foreground/60 hover:text-foreground/80"
-              >
-                <img src={facebook} alt="" className="h-6 w-6" />
-              </a>
-              <a
-                href="https://www.instagram.com/_dhils12/"
+                href="https://www.instagram.com/ekawln1/"
                 className="text-foreground/60 hover:text-foreground/80"
               >
                 <img src={instagram} alt="" className="h-6 w-6" />
-              </a>
-              <a
-                href="https://www.linkedin.com/in/siti-nur-fadhilah-31378932b/"
-                className="text-foreground/60 hover:text-foreground/80"
-              >
-                <img src={linkedin} alt="" className="h-6 w-6" />
               </a>
             </div>
             <Lottie
